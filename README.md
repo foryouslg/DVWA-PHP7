@@ -88,7 +88,7 @@ $_DVWA[ 'db_database' ] = 'dvwa';
 ### Other Configuration
 
 Depening on your Operating System as well as version of PHP, you may wish to alter the default configuration. The location of the files will be different on a per-machine basis.
-Note, You are unable to use PHP v7.0 or later with DVWA.
+Note, <font color="red">You are able to use PHP v7.0 or later with DVWA.</font>
 
 **Folder Permissions**:
 
