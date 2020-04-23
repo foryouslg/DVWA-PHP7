@@ -1,0 +1,10 @@
+<?php 
+    #phpinfo();
+    $conn=mysqli_connect("127.0.0.1","root","123456789");
+    if($conn){
+        echo"ok";
+    }else{
+        echo"error";    
+    }
+    phpinfo();
+?>
